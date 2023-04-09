@@ -1,6 +1,6 @@
 <h1>Hi, I'm Chisom! <br/><a <a href="https://www.linkedin.com/in/chisom-okafor-j/">Cloud Engineer</a>| </h1>
 
-<h2>👨‍💻 Cloud Engineering Projectsf:</h2>
+<h2>👨‍💻 Cloud Engineering Projects:</h2>
 
 - <b>[Hosting A Static Website With AWS S3](https://github.com/joshmadakor1/Algorithms-Practice)</b>
   - Create an S3 Bucket and enable static website hosting
