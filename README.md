@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cloud Engineering Projects:</h2>
 
-- <b>[Hosting A Static Website With AWS S3]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/ok4chisom/Hosting-A-Static-Website-on-S3))</b>
+- <b>[Hosting A Static Website With AWS S3](https://github.com/ok4chisom/Hosting-A-Static-Website-on-S3)</b>
   - Create an S3 Bucket and enable static website hosting
   - Grant permission to bucket to allow public access and read access to everyone
   - Upload HTML code for web site
