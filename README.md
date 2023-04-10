@@ -6,7 +6,7 @@
   - Create an S3 Bucket and enable static website hosting
   - Grant permission to bucket to allow public access and read access to everyone
   - Upload HTML code for web site
-- <b>[AWS S3 Cross Region Replication](https://github.com/joshmadakor1/Algorithms-Practice)</b>
+- <b>[AWS S3 Cross Region Replication](https://github.com/ok4chisom/AWS-S3-Cross-Region-Replication)</b>
   - Create an S3 Bucket in 2 separate regions and enable versioning
   - Create a replication rule in the source bucket
   - Upload files into the source bucket
