@@ -28,7 +28,6 @@
   - Customize domain name
   - Create A record for custom domain
  
-  
 
 <!--
 <h2>📺 YouTube Videos</h2>
@@ -40,7 +39,8 @@
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 -->
 <h2> 🤳 Connect with me:</h2>
-<b>[Linkedin](https://www.linkedin.com/in/chisom-okafor-j/)</b>
+
+<b>[LinkedIn](https://www.linkedin.com/in/chisom-okafor-j/)</b>
 <!--
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="chisomokafor | LinkedIn" width="22px" src="https://www.linkedin.com/in/chisom-okafor-j/" />][linkedin]
