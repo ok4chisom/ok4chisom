@@ -21,7 +21,7 @@
   - Register a domain name (if you don't have one)
   - Create an S3 bucket to host your website
   - Link the S3 website to the domain name
-- <b>[Hosting Your Static Website Using S3 and Cloudfront]([https://github.com/ok4chisom/03-Create-An-Alias-Record-iN-Amazon-Route53](https://github.com/ok4chisom/04-Host-Your-Static-Website-Using-S3-And-Cloudfront)</b>
+- <b>[Hosting Your Static Website Using S3 and Cloudfront](https://github.com/ok4chisom/04-Host-Your-Static-Website-Using-S3-And-Cloudfront)</b>
   - Create CloudFront Distribution
   - Edit S3 bucket policy to allow CloudFront access
   - Create SSL certificate
@@ -40,14 +40,15 @@
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 -->
 <h2> 🤳 Connect with me:</h2>
-
+<b>[Linkedin](https://www.linkedin.com/in/chisom-okafor-j/)</b>
+<!--
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="chisomokafor | LinkedIn" width="22px" src="https://www.linkedin.com/in/chisom-okafor-j/" />][linkedin]
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/chisom-okafor-j/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
