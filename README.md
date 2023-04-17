@@ -27,6 +27,28 @@
   - Create SSL certificate
   - Customize domain name
   - Create A record for custom domain
+- <b>[Deploy An EC2 Inside A Custom VPC](https://github.com/ok4chisom/05-Deploy-An-EC2-Inside-A-Custom-VPC)</b>
+  - Create your custom VPC
+  - Create VPC
+  - Create Subnet
+  - Create Internet Gateway
+  - Create Route Tables
+  - Create EC2 instance
+  - Create Security Group
+  - Deploy EC2 in public subnet
+  - Launch your website
+- <b>[Deploy An EC2 Inside A Custom VPC Using Terraform](https://github.com/ok4chisom/06-Deploy-An-EC2-Inside-A-Custom-VPC-Using-Terraform)</b>
+  - Configure AWS provider
+  - Create your custom VPC
+  - Create VPC
+  - Create Subnet
+  - Create Internet Gateway
+  - Create Route Tables
+  - Create EC2 instance
+  - Create Security Group
+  - Deploy EC2 in public subnet
+  - Launch your website
+
  
 
 <!--
