@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chisom! <br/><a <a href="https://www.linkedin.com/in/chisom-okafor-j/">Cloud Engineer</a>| </h1>
+<h1>Hi, I'm Chisom! <br/><a <a href="https://www.linkedin.com/in/chisom-okafor-j/">Project Manager with cloud expertise</a>| </h1>
 
 <h2> 📑Certifications: </h2>
 
