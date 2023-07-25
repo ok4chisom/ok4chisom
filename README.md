@@ -2,8 +2,10 @@
 
 <h2> 📑Certifications: </h2>
 
+- <b>[Certified Scrum Master](https://bcert.me/bc/html/show-badge.html?b=cmbwlvmb)</b>
 - <b>[AWS Certified Solutions Architect Associate](https://www.credly.com/badges/be400481-6412-4f75-a77d-f0a9645ee470/public_url)</b>
 - <b>[AWS Certified Cloud Practictioner](https://www.credly.com/badges/afbb80e9-1fc2-401a-9102-186c24f37d80/public_url)</b>
+
 
 <h2>👨‍💻 Cloud Engineering Projects:</h2>
 
