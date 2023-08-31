@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chisom! <br/><a <a href="https://www.linkedin.com/in/chisom-okafor-j/">Project Manager with cloud expertise</a>| </h1>
+<h1>Hi, I'm Chisom! <br/><a <a href="https://www.linkedin.com/in/chisom-okafor-j/">I am an experienced Project Manager that loves to work on fun projects in his down time</a>| </h1>
 
 <h2> 📑Certifications: </h2>
 
@@ -7,7 +7,7 @@
 - <b>[AWS Certified Cloud Practictioner](https://www.credly.com/badges/afbb80e9-1fc2-401a-9102-186c24f37d80/public_url)</b>
 
 
-<h2>👨‍💻 Cloud Engineering Projects:</h2>
+<h2>👨‍💻 Fun Projects:</h2>
 
 - <b>[Hosting A Static Website With AWS S3](https://github.com/ok4chisom/Hosting-A-Static-Website-on-S3)</b>
   - Create an S3 Bucket and enable static website hosting
