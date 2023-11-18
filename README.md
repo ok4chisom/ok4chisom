@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chisom! <br/><a <a href="https://www.linkedin.com/in/chisom-okafor-j/">I am an experienced Project Manager that loves to work on fun projects in his down time</a>| </h1>
+<h1>Hi, I'm Chisom! <br/><a <a href="https://www.linkedin.com/in/chisom-okafor-j/">I am an experienced Product/Project Manager that loves to work on fun projects and get his hands dirty in his down time</a>| </h1>
 
 <h2> 📑Certifications: </h2>
 
